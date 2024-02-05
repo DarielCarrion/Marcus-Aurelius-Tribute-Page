@@ -44,4 +44,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Special thanks to anyone who's ideas were used
 - Inspired by [FreeCodeCamp's](https://www.freecodecamp.org) tribute page project
-- Project maintained by [YourUsername]
